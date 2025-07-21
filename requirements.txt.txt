@@ -1,0 +1,11 @@
+```txt
+ultralytics==8.0.20
+opencv-python
+paddleocr
+paddlepaddle
+pytesseract
+torch
+realesrgan
+basicsr
+numpy
+```
